@@ -1,0 +1,1 @@
+xcopy /S /R /Y platforms\browser\www web\

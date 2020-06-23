@@ -1,0 +1,21 @@
+{
+  "identifier": "org.zowe.zlux.sample.cordova",
+  "apiVersion": "1.0.0",
+  "pluginVersion": "1.0.0",
+  "pluginType": "application",
+  "webContent": {
+    "framework": "iframe",
+    "launchDefinition": {
+      "pluginShortNameKey": "sampleCordova",
+      "pluginShortNameDefault": "SampleCordova",
+      "imageSrc": "img/logo.png"
+    },
+    "descriptionKey": "samplecordovaapp",
+    "descriptionDefault": "Sample Cordova App wrapped into iframe",
+    "isSingleWindowApp": true,
+    "defaultWindowStyle": {
+      "width": 850,
+      "height": 450
+    }
+  }
+}
